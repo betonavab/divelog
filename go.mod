@@ -1,4 +1,4 @@
-module dive/divelog
+module github.com/betonavab/divelog
 
 go 1.21.3
 
